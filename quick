@@ -1,7 +1,7 @@
 let year = 2024
-var version = 1.0
-var dwnl = 10
-var ratings = 4.5
+var version = 1.1
+var dwnl = 1010
+var ratings = 4.7
 
 print("Cool app")
 print("Matthew Robinson")
